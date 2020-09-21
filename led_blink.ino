@@ -8,14 +8,14 @@ void loop() {
   digitalWrite(13,HIGH);
   delay(100);  
   digitalWrite(13,LOW);
-  delay(100);
+  delay(200);
   digitalWrite(12,HIGH);
   delay(100);
   digitalWrite(12,LOW);
-  delay(100);
+  delay(200);
   digitalWrite(11,HIGH);
   delay(100);
   digitalWrite(11,LOW);
-  delay(100);
+  delay(200);
 
 }
